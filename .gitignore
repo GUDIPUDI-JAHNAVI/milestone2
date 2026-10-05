@@ -1,0 +1,7 @@
+fifo
+gru
+lru
+opt
+src/shellforge
+*.o
+*.gch
